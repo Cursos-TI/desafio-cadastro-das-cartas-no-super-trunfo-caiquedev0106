@@ -102,7 +102,6 @@ int main(){
     
     printf("Número de Pontos Turísticos: %i\n\n",Pturisticos2);
 
-
 return 0;
 
 }
