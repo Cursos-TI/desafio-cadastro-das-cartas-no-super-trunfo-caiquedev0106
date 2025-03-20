@@ -110,7 +110,7 @@ void compararCartas(Carta carta1, Carta carta2, int atributoEscolhido) {
 
 int main() {
     Carta carta1 = {"Brasil", 413993437, 9515767.0, 4204000.0, 500, 825.1};
-    Carta carta2 = {"argentina", 11149300, 257022.0, 4100000.0, 200, 137.0};
+    Carta carta2 = {"alemanha", 11149300, 257022.0, 4100000.0, 200, 137.0};
 
     int opcao;
     
